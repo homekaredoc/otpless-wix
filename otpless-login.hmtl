@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTPLESS Login</title>
+    <!-- OTPLESS SDK -->
+    <script id="otpless-sdk"
+        type="text/javascript"
+        data-appid="d6mz3pdt2rg9xqojxafm"
+        src="https://otpless.com/v4/auth.js">
+    </script>
+</head>
+<body>
+    <div id="otpless-login"></div>
+</body>
+</html>
